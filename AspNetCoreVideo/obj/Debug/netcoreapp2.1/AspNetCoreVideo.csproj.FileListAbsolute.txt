@@ -1,0 +1,38 @@
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.deps.json
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.runtimeconfig.json
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.runtimeconfig.dev.json
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.dll
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.pdb
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.csprojAssemblyReference.cache
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.csproj.CoreCompileInputs.cache
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorAssemblyInfo.cache
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorAssemblyInfo.cs
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.AssemblyInfoInputs.cache
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.AssemblyInfo.cs
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorTargetAssemblyInfo.cache
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.dll
+c:\users\vlad dragan\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.pdb
+F:\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.deps.json
+F:\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.runtimeconfig.json
+F:\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.runtimeconfig.dev.json
+F:\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.dll
+F:\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.pdb
+F:\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.Views.dll
+F:\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.1\AspNetCoreVideo.Views.pdb
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.csprojAssemblyReference.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.csproj.CoreCompileInputs.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorAssemblyInfo.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorAssemblyInfo.cs
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.AssemblyInfoInputs.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.AssemblyInfo.cs
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.TagHelpers.input.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.TagHelpers.output.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorCoreGenerate.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorTargetAssemblyInfo.cache
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.RazorTargetAssemblyInfo.cs
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.Views.pdb
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.dll
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.pdb
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.csproj.CopyComplete
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
