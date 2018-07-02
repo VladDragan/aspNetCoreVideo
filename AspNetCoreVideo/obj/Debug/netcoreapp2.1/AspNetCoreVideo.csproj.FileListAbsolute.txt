@@ -36,3 +36,4 @@ F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.dll
 F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.pdb
 F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\AspNetCoreVideo.csproj.CopyComplete
 F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+F:\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs

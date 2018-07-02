@@ -5,6 +5,7 @@ using AspNetCoreVideo.Models;
 using AspNetCoreVideo.ViewModel;
 using System.Linq;
 using System;
+using AspNetCoreVideo.Entities;
 
 namespace AspNetCoreVideo.Controllers
 {
@@ -22,12 +23,35 @@ namespace AspNetCoreVideo.Controllers
             var model = _videos.GetAll().Select(video =>
             new VideoViewModel
             {
-                Genre = Enum.GetName(typeof(Genres), video.GenreId),
+                Genre = video.Genre.ToString(),
                 Title = video.Title,
                 Id = video.Id
             });
 			return View(model);
 		}
+
+        [HttpPost]
+        public IActionResult Create(VideoEditViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var video = new Video
+                {
+                    Genre = model.Genre,
+                    Id = model.Id,
+                    Title = model.Title
+                };
+                _videos.Add(video);
+                return RedirectToAction("Details", new { id = video.Id });
+            }
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+           return View();
+        }
 
         public IActionResult Details(int id)
         {
@@ -38,7 +62,7 @@ namespace AspNetCoreVideo.Controllers
             }
             return View(new VideoViewModel
             {
-                Genre = Enum.GetName(typeof(Genres), model.GenreId),
+                Genre = model.Genre.ToString(),
                 Id = model.Id,
                 Title = model.Title
             });
